@@ -1,0 +1,24 @@
+{
+  "name": "group",
+  "version": "1.0.0",
+  "description": "课题组",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiangchunyan81/group.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiangchunyan81/group/issues"
+  },
+  "homepage": "https://github.com/xiangchunyan81/group#readme",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "nodemon": "^2.0.15"
+  }
+}
